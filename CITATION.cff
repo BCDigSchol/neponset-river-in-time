@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "King Phillips War"
+authors:
+  - family-names: Clerx
+    given-names: Laura
+  - family-names: Valencius
+    given-names: Conevery
+  - family-names: Ackerly
+    given-names: Asa
+abstract: "Jekyll site for the Neponset River in Time Project @ Boston College"
+version: 0.0.1
+date-released: "2024-4-9"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/BCDigSchol/neponset-river-in-time"
