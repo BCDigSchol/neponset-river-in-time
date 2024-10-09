@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 600;
     font-style: normal;
     height: 100%;
+    font-size: $title-font-size !important;
 }
 
 .title-font a, .title-font a:visited {

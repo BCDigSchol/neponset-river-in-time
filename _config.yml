@@ -1,9 +1,9 @@
 # change the followings to match your Github username and repo name
-baseurl: "/wip-neponset-river-in-time" # the name of your github repo
-url: "https://BCDigSchol.github.io" # the url of your github pages
+# baseurl: "/wip-neponset-river-in-time" # the name of your github repo
+# url: "https://BCDigSchol.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "A River in Time"
+title: "A River in Time&#58; Environmental Histories on the Neponset River"
 description: Jekyll site for the Neponset River in Time Project @ Boston College
 
 # color theme for links
@@ -21,8 +21,14 @@ nav-menu:
     link: telling-stories
   - title: Neponset "Now"
     link: neponset-now
-  - title: Further Reading
-    link: further-reading
+  - title: Resources
+    submenu:
+      - title: Further Reading
+        link: further-reading
+      - title: Works Cited
+        link: works-cited
+      - title: Maps
+        link: maps
 
 # sets whether a search bar appears on the site header
 # NOTE, you will have to increase the site of teh $site-header-height in _sass/theme-settings.scss to to see the search bar
